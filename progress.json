@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T15:33:18.506Z",
+  "generated_at": "2026-10-16T08:44:04.023Z",
   "items": {
     "problem:1102": {
       "kind": "problem",
@@ -13,6 +13,39 @@
       "last_pushed_at": "2026-10-15T15:33:13.929Z",
       "language": "sql",
       "lines": 3
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-12T19:37:45.679Z",
+      "last_pushed_at": "2026-10-12T19:37:45.679Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-10-12T19:42:26.452Z",
+      "last_pushed_at": "2026-10-12T19:42:26.452Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-10-12T19:43:23.518Z",
+      "last_pushed_at": "2026-10-12T19:43:23.518Z"
     }
   }
 }
