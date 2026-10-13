@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T08:44:04.023Z",
+  "generated_at": "2026-10-16T08:44:06.308Z",
   "items": {
     "problem:1102": {
       "kind": "problem",
@@ -46,6 +46,156 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-10-12T19:43:23.518Z",
       "last_pushed_at": "2026-10-12T19:43:23.518Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-10-13T13:16:12.051Z",
+      "last_pushed_at": "2026-10-13T13:16:12.051Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-10-13T13:20:37.413Z",
+      "last_pushed_at": "2026-10-13T13:20:37.413Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-10-13T13:22:35.285Z",
+      "last_pushed_at": "2026-10-13T13:22:35.285Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-10-13T14:55:52.609Z",
+      "last_pushed_at": "2026-10-13T14:55:52.609Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-10-13T15:02:10.409Z",
+      "last_pushed_at": "2026-10-13T15:02:10.409Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-10-13T17:10:20.224Z",
+      "last_pushed_at": "2026-10-13T17:10:20.224Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-10-13T17:19:48.159Z",
+      "last_pushed_at": "2026-10-13T17:19:48.159Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-10-13T17:25:57.224Z",
+      "last_pushed_at": "2026-10-13T17:25:57.224Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-10-13T19:06:42.703Z",
+      "last_pushed_at": "2026-10-13T19:06:42.703Z",
+      "language": "python",
+      "lines": 16
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-10-13T19:09:57.007Z",
+      "last_pushed_at": "2026-10-13T19:09:57.007Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-10-13T19:12:00.901Z",
+      "last_pushed_at": "2026-10-13T19:12:00.901Z"
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-10-13T19:13:17.019Z",
+      "last_pushed_at": "2026-10-13T19:13:17.019Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
