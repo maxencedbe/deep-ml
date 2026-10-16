@@ -6,8 +6,6 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 ![Coverage](./coverage.svg)
 
-[**Browse the interactive portfolio**](https://maxencedbe.github.io/deep-ml/) to replay this filling in over time.
-
 ## Problems
 
 | | Difficulty | Solved | |
